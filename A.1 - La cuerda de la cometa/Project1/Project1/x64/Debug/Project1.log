@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\josea\Escritorio\Cosas Universidad\3º\Primer Cuatrimestre\Técnicas Algoritmicas en Ingeniería del Software\Ejercicios Juez\A.1\Project1\Project1\Source.cpp(26,21): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\josea\Escritorio\Cosas Universidad\3º\Primer Cuatrimestre\Técnicas Algoritmicas en Ingeniería del Software\Ejercicios Juez\A.1\Project1\Project1\Source.cpp(43,21): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\josea\Escritorio\Cosas Universidad\3º\Primer Cuatrimestre\Técnicas Algoritmicas en Ingeniería del Software\Ejercicios Juez\A.1\Project1\Project1\Source.cpp(60,21): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Project1.vcxproj -> C:\Users\josea\Escritorio\Cosas Universidad\3º\Primer Cuatrimestre\Técnicas Algoritmicas en Ingeniería del Software\Ejercicios Juez\A.1\Project1\x64\Debug\Project1.exe

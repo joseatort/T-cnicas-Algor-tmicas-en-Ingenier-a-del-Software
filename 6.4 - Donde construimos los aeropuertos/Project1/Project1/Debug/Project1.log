@@ -1,0 +1,23 @@
+﻿  Source.cpp
+C:\Users\josea\Escritorio\Cosas Universidad\3º\Primer Cuatrimestre\Técnicas Algoritmicas en Ingeniería del Software\Ejercicios Juez\6.4\Project1\Project1\PriorityQueue.h(39,28): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\josea\Escritorio\Cosas Universidad\3º\Primer Cuatrimestre\Técnicas Algoritmicas en Ingeniería del Software\Ejercicios Juez\6.4\Project1\Project1\PriorityQueue.h(37): message : al compilar la función del miembro clase plantilla "PriorityQueue<Arista<Valor>,ReverseComparator<Valor>>::PriorityQueue(const std::vector<Arista<Valor>,std::allocator<Arista<Valor>>> &,Comparator)"
+          with
+          [
+              Valor=int,
+              Comparator=ReverseComparator<int>
+          ]
+C:\Users\josea\Escritorio\Cosas Universidad\3º\Primer Cuatrimestre\Técnicas Algoritmicas en Ingeniería del Software\Ejercicios Juez\6.4\Project1\Project1\Problema.h(38): message : Vea la referencia a la creación de una instancia de la función plantilla "PriorityQueue<Arista<Valor>,ReverseComparator<Valor>>::PriorityQueue(const std::vector<Arista<Valor>,std::allocator<Arista<Valor>>> &,Comparator)" que se está compilando
+          with
+          [
+              Valor=int,
+              Comparator=ReverseComparator<int>
+          ]
+C:\Users\josea\Escritorio\Cosas Universidad\3º\Primer Cuatrimestre\Técnicas Algoritmicas en Ingeniería del Software\Ejercicios Juez\6.4\Project1\Project1\Problema.h(38): message : Vea la referencia a la creación de una instancia de clase plantilla "PriorityQueue<Arista<Valor>,ReverseComparator<Valor>>" que se está compilando
+          with
+          [
+              Valor=int
+          ]
+C:\Users\josea\Escritorio\Cosas Universidad\3º\Primer Cuatrimestre\Técnicas Algoritmicas en Ingeniería del Software\Ejercicios Juez\6.4\Project1\Project1\Problema.h(37): message : al compilar la función del miembro clase plantilla "Aeropuertos<int>::Aeropuertos(const GrafoValorado<int> &,int)"
+C:\Users\josea\Escritorio\Cosas Universidad\3º\Primer Cuatrimestre\Técnicas Algoritmicas en Ingeniería del Software\Ejercicios Juez\6.4\Project1\Project1\Source.cpp(48): message : Vea la referencia a la creación de una instancia de la función plantilla "Aeropuertos<int>::Aeropuertos(const GrafoValorado<int> &,int)" que se está compilando
+C:\Users\josea\Escritorio\Cosas Universidad\3º\Primer Cuatrimestre\Técnicas Algoritmicas en Ingeniería del Software\Ejercicios Juez\6.4\Project1\Project1\Source.cpp(48): message : Vea la referencia a la creación de una instancia de clase plantilla "Aeropuertos<int>" que se está compilando
+  Project1.vcxproj -> C:\Users\josea\Escritorio\Cosas Universidad\3º\Primer Cuatrimestre\Técnicas Algoritmicas en Ingeniería del Software\Ejercicios Juez\6.4\Project1\Debug\Project1.exe

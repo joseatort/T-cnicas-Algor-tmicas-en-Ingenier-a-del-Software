@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\josea\Escritorio\Cosas Universidad\3º\Primer Cuatrimestre\Técnicas Algoritmicas en Ingeniería del Software\Ejercicios Juez\5.1\Project1\Project1\Problema.h(55): warning C4715: 'Calculadora::bfs': no todas las rutas de acceso de control devuelven un valor
+C:\Users\josea\Escritorio\Cosas Universidad\3º\Primer Cuatrimestre\Técnicas Algoritmicas en Ingeniería del Software\Ejercicios Juez\5.1\Project1\Project1\Problema.h(27): warning C4715: 'Calculadora::adyacente': no todas las rutas de acceso de control devuelven un valor
+  Project1.vcxproj -> C:\Users\josea\Escritorio\Cosas Universidad\3º\Primer Cuatrimestre\Técnicas Algoritmicas en Ingeniería del Software\Ejercicios Juez\5.1\Project1\Debug\Project1.exe

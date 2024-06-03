@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\josea\Escritorio\Cosas Universidad\3º\Primer Cuatrimestre\Técnicas Algoritmicas en Ingeniería del Software\Ejercicios Juez\D.3\Project1\Project1\Source.cpp(54,2): warning C4091: 'typedef ': se ha omitido a la izquierda de 'Nodo' cuando no hay ninguna variable declarada
+C:\Users\josea\Escritorio\Cosas Universidad\3º\Primer Cuatrimestre\Técnicas Algoritmicas en Ingeniería del Software\Ejercicios Juez\D.3\Project1\Project1\Source.cpp(62,14): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\josea\Escritorio\Cosas Universidad\3º\Primer Cuatrimestre\Técnicas Algoritmicas en Ingeniería del Software\Ejercicios Juez\D.3\Project1\Project1\Source.cpp(69,11): warning C4018: '<': no coinciden signed/unsigned
+  Project1.vcxproj -> C:\Users\josea\Escritorio\Cosas Universidad\3º\Primer Cuatrimestre\Técnicas Algoritmicas en Ingeniería del Software\Ejercicios Juez\D.3\Project1\Debug\Project1.exe

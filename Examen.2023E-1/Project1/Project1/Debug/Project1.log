@@ -1,0 +1,26 @@
+﻿  Source.cpp
+C:\Users\josea\Escritorio\Cosas Universidad\3º\Primer Cuatrimestre\Técnicas Algoritmicas en Ingeniería del Software\Ejercicios Juez\Examen.2023E-1\Project1\Project1\PriorityQueue.h(39,28): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\josea\Escritorio\Cosas Universidad\3º\Primer Cuatrimestre\Técnicas Algoritmicas en Ingeniería del Software\Ejercicios Juez\Examen.2023E-1\Project1\Project1\PriorityQueue.h(37): message : al compilar la función del miembro clase plantilla "PriorityQueue<Arista<Valor>,std::less<T>>::PriorityQueue(const std::vector<Arista<Valor>,std::allocator<Arista<Valor>>> &,Comparator)"
+          with
+          [
+              Valor=int,
+              T=Arista<int>,
+              Comparator=std::less<Arista<int>>
+          ]
+C:\Users\josea\Escritorio\Cosas Universidad\3º\Primer Cuatrimestre\Técnicas Algoritmicas en Ingeniería del Software\Ejercicios Juez\Examen.2023E-1\Project1\Project1\Problema.h(19): message : Vea la referencia a la creación de una instancia de la función plantilla "PriorityQueue<Arista<Valor>,std::less<T>>::PriorityQueue(const std::vector<Arista<Valor>,std::allocator<Arista<Valor>>> &,Comparator)" que se está compilando
+          with
+          [
+              Valor=int,
+              T=Arista<int>,
+              Comparator=std::less<Arista<int>>
+          ]
+C:\Users\josea\Escritorio\Cosas Universidad\3º\Primer Cuatrimestre\Técnicas Algoritmicas en Ingeniería del Software\Ejercicios Juez\Examen.2023E-1\Project1\Project1\Problema.h(19): message : Vea la referencia a la creación de una instancia de clase plantilla "PriorityQueue<Arista<Valor>,std::less<T>>" que se está compilando
+          with
+          [
+              Valor=int,
+              T=Arista<int>
+          ]
+C:\Users\josea\Escritorio\Cosas Universidad\3º\Primer Cuatrimestre\Técnicas Algoritmicas en Ingeniería del Software\Ejercicios Juez\Examen.2023E-1\Project1\Project1\Problema.h(18): message : al compilar la función del miembro clase plantilla "ARM_Kruskal<int>::ARM_Kruskal(const GrafoValorado<int> &)"
+C:\Users\josea\Escritorio\Cosas Universidad\3º\Primer Cuatrimestre\Técnicas Algoritmicas en Ingeniería del Software\Ejercicios Juez\Examen.2023E-1\Project1\Project1\Source.cpp(43): message : Vea la referencia a la creación de una instancia de la función plantilla "ARM_Kruskal<int>::ARM_Kruskal(const GrafoValorado<int> &)" que se está compilando
+C:\Users\josea\Escritorio\Cosas Universidad\3º\Primer Cuatrimestre\Técnicas Algoritmicas en Ingeniería del Software\Ejercicios Juez\Examen.2023E-1\Project1\Project1\Source.cpp(43): message : Vea la referencia a la creación de una instancia de clase plantilla "ARM_Kruskal<int>" que se está compilando
+  Project1.vcxproj -> C:\Users\josea\Escritorio\Cosas Universidad\3º\Primer Cuatrimestre\Técnicas Algoritmicas en Ingeniería del Software\Ejercicios Juez\Examen.2023E-1\Project1\Debug\Project1.exe
